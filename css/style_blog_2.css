@@ -53,6 +53,7 @@ nav {
     font-family: var(--Regular-font);
     background-color:#0c0305;
     z-index: 99999;
+    cursor: pointer;
 }
 
 .logo {

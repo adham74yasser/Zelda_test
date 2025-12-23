@@ -690,7 +690,7 @@ text-align: center;
 /* end section Live */
 /* start section Shop */
 .Shop_card {
-    width: calc(100% / 4 );
+    width: calc(100% / 4 - 60px);
     height: 500px;
     display: flex;
     align-items: center;
